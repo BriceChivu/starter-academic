@@ -21,7 +21,7 @@ interests:
 - Artificial Intelligence
 - Data Science
 - Technology
-- 3PL
+- 3PL test
 
 # Education to show in About widget
 education:
