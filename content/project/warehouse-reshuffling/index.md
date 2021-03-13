@@ -3,7 +3,7 @@
 
 title: "Warehouse Reshuffling"
 subtitle: "How to reshuffle a warehouse using Python"
-summary: "Rearranging more than 20,000 pallets locations, improving the Warehouse Product Flow efficiency by 25%."
+summary: "Housekeeping is a key factor for a healthy warehouse. This project is to rearrange more than 20,000 pallets locations, improving the Warehouse Product Flow efficiency by 25%."
 authors: []
 tags: ["Logistics"]
 categories: []

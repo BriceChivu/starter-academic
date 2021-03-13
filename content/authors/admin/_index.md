@@ -6,11 +6,11 @@ title: Brice Chivu
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Master in Supply Chain and Logistics
+- name: Master in Engineering and Statistics
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -21,12 +21,12 @@ interests:
 - Artificial Intelligence
 - Data Science
 - Technology
-- 3PL 
+- Statistics
 
 # Education to show in About widget
 education:
   courses:
-  - course: Master in Supply Chain and Logistics
+  - course: Master in Engineering and Statistics
     institution: The Industrial Engineering & Management School at Grenoble Institute of Technology
     year: 2016 - 2019
   - course: Preparatory Classes for the Grandes Écoles
@@ -62,7 +62,7 @@ social:
   link: https://github.com/bricechivu
 - icon: medium
   icon_pack: fab
-  link: https://medium.com/@chvbrice
+  link: https://medium.com/@bricechivu
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -72,7 +72,11 @@ email: ""
 highlight_name: false
 ---
 
-Brice is a dedicated Data Analyst with experience communicating needs for projects and leveraging data to sharpen decision making. He is enthusiast at receiving and monitoring data from multiple data streams, including Oracle SQL Developer, Excel sources, and more. <br/> Brice has been successcul in generating and presenting effective visualization for monthly and quarterly client audits.
+It was after facing a continuous struggle to convince that I truly understood the power of storytelling. I first learned in the Supply Chain industry how important stories are to convey clear ideas and make impactful decisions. This is how I got introduced to Data Science and fell in love with it.  
+
+Today, I use data on a daily basis to understand current practices, suggest improvements, and make predictions. I am familiar with Python, Excel, SQL, Tableau, among other tools. I see them as a means to an end, to solve a problem or present a vision.
+
+I'm currently looking to contribute to a team where I can prove my skills while growing in my capabilities. If you are looking for a competent, highly-motivated Data Scientist, let's chat. You can reach me on email  <a href="mailto:bricechivu@gmail.com">  {{< icon name="envelope" pack="fas" >}}</a> or by DMing me on LinkedIn.
 
 
 

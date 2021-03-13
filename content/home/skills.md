@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 12
 
 title: Skills
 subtitle:
@@ -29,13 +29,13 @@ feature:
   icon_pack: fas
   name: SQL
 - description: 
-  icon: file-excel
+  icon: sitemap
   icon_pack: fas
-  name: Excel
+  name: Machine Learning
 - description: 
   icon: chart-bar
   icon_pack: far
-  name: Tableau
+  name: Visualization
 - description: 
   icon: tasks
   icon_pack: fas

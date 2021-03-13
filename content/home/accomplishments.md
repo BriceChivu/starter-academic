@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 51
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Certifications'
@@ -51,4 +51,13 @@ item:
   organization_url: https://www.coursera.org/
   title: 'Google Cloud Platform Big Data and Machine Learning Fundamentals'
   url: "https://www.coursera.org/learn/gcp-big-data-ml-fundamentals"
+- 
+# certificate_url: https://www.freecodecamp.org/
+  date_end: ""
+  date_start: "2021-03-01"
+  description: "Hands-on Amazon Elastic Compute Cloud (EC2), AWS Storage Services, AWS Databases, Automation on AWS, DevOps on AWS, and more."
+  organization: FreeCodeCamp
+  organization_url: https://www.freecodecamp.org/
+  title: 'AWS Basics for Beginners - Full Course'
+  url: "https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/"
 ---

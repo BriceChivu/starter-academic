@@ -25,11 +25,6 @@
   url = "#experience"
   weight = 13
 
-[[main]]
-  name = "Certifications"
-  url = "#accomplishments"
-  weight = 14   
-
 # [[main]]
  # name = "Posts"
 #  url = "#posts"
@@ -49,6 +44,11 @@
  # name = "Publications"
  # url = "#featured"
  # weight = 50
+
+[[main]]
+  name = "Certifications"
+  url = "#accomplishments"
+  weight = 51  
 
 [[main]]
  name = "Contact"

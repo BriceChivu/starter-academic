@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 13
 
 title: Experience
 subtitle:
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Logistics Data Analyst
+  - title: Data Analyst
     company: Bolloré Logistics
     company_url: 'https://www.bollore-logistics.com/en/country/singapore/'
     # location: California
@@ -31,11 +31,11 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Extract, Transform, Load (ETL) millions of rows on a daily basis using Oracle SQL Developer and Python
         * Interpret and communicate insights and findings from analysis to Operation, Business and Warehouse managers
-        * Implement automated reports for Customer Service team using SQL, Excel and pandas library in Jupyter Notebook
-        * Collect, manipulate and present data on a daily basis to Key Account Manager to support decision making using Tableau
-        * Translate quantitative analyses into accessible visuals for non-technical audiences, providing a clear view into interpreting KPI
-        * Continuous Improvement Leader and Project Manager
+        * Collect, manipulate and present data to Key Account Manager to support decision making using visualization tools
+        * Translate quantitative analyses into accessible visuals for non-technical audiences, providing a clear view into interpreting metrics
+        * Leverage data to answer business problems
         
   - title: Associate Consultant Intern in Machine Learning
     company: RegASK - SPRIM
@@ -47,7 +47,7 @@ experience:
         Jobscope:
 
         * Assisted Machine Learning team in developing Natural Language Processing (NLP) solutions
-        * Collected and analyzed data from clients
+        * Collected and analyzed data through Data Mining and ETL
 
 
   - title: Augmented Reality Engineer Intern
@@ -57,7 +57,7 @@ experience:
     date_start: '2018-05-01'
     date_end: '2018-08-31'
     description: 
-      Created an Augmented Reality app using Unity to facilitate operators' visual assessment of complex mechanical parts in factory 
+      Created an Augmented Reality app using Unity software to facilitate operators' visual assessment of complex mechanical parts in factory
 
 ---
 

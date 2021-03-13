@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Projects
 subtitle: ''
@@ -27,14 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Machine Learning
+    tag: Machine Learning  
   - name: Logistics
     tag: Logistics
-  - name: Other
-    tag: Demo
+  # - name: Other
+  #   tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '3'
 
   # Toggle between the various page layout types.
   #   1 = List
