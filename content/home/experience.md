@@ -33,6 +33,8 @@ experience:
         
         * Extract, Transform, Load (ETL) millions of rows on a daily basis using Oracle SQL Developer and Python
         * Interpret and communicate insights and findings from analysis to Operation, Business and Warehouse managers
+        * Utilized Python to handle time series data and to select 260+ SKU to weight check in Inbound, saving 100k+ SGD/year
+        * Created 10+ Tableau visualizations for Audits and Business Reviews interpreting metrics
         * Collect, manipulate and present data to Key Account Manager to support decision making using visualization tools
         * Translate quantitative analyses into accessible visuals for non-technical audiences, providing a clear view into interpreting metrics
         * Leverage data to answer business problems
@@ -46,8 +48,9 @@ experience:
     description: |2- 
         Jobscope:
 
-        * Assisted Machine Learning team in developing Natural Language Processing (NLP) solutions
-        * Collected and analyzed data through Data Mining and ETL
+        * Assisted Machine Learning team in cleaning, transforming and validating more than 1TB of clients data
+        * Used Python and Scikit-learn on a daily basis
+        * Taught 2 interns on Python and ETL flow for handling dataframes
 
 
   - title: Augmented Reality Engineer Intern
